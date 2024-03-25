@@ -1,0 +1,3 @@
+[submodule "services/single-sign-on"]
+	path = services/single-sign-on
+	url = https://github.com/wprm-system/single-sign-on.git
