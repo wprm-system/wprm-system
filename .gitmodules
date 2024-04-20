@@ -1,3 +1,6 @@
 [submodule "services/single-sign-on"]
 	path = services/single-sign-on
 	url = https://github.com/wprm-system/single-sign-on.git
+[submodule "assets"]
+	path = assets
+	url = https://github.com/wprm-system/public-assets.git
