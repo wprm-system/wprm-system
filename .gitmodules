@@ -7,3 +7,6 @@
 [submodule "services/webapp"]
 	path = services/webapp
 	url = https://github.com/wprm-system/webapp.git
+[submodule "services/webapi"]
+	path = services/webapi
+	url = https://github.com/wprm-system/webapi.git
