@@ -4,3 +4,6 @@
 [submodule "assets"]
 	path = assets
 	url = https://github.com/wprm-system/public-assets.git
+[submodule "services/webapp"]
+	path = services/webapp
+	url = https://github.com/wprm-system/webapp.git
