@@ -1,12 +1,16 @@
 [submodule "services/single-sign-on"]
 	path = services/single-sign-on
 	url = https://github.com/wprm-system/single-sign-on.git
+	branch = main
 [submodule "assets"]
 	path = assets
 	url = https://github.com/wprm-system/public-assets.git
+	branch = main
 [submodule "services/webapp"]
 	path = services/webapp
 	url = https://github.com/wprm-system/webapp.git
+	branch = main
 [submodule "services/webapi"]
 	path = services/webapi
 	url = https://github.com/wprm-system/webapi.git
+	branch = main
