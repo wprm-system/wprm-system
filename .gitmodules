@@ -17,3 +17,4 @@
 [submodule "services/common.js"]
 	path = services/common.js
 	url = https://github.com/wprm-system/common.js.git
+	branch = main
