@@ -14,3 +14,6 @@
 	path = services/webapi
 	url = https://github.com/wprm-system/webapi.git
 	branch = main
+[submodule "services/common.js"]
+	path = services/common.js
+	url = https://github.com/wprm-system/common.js.git
